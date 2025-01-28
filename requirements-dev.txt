@@ -1,6 +1,7 @@
 black
 flake8
-isort
+isort<6
 mypy
 pysen
 pytest
+setuptools
