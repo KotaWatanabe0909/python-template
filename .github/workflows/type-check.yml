@@ -26,7 +26,7 @@ jobs:
         run: uv sync
 
       - name: Install Ty
-        run: uv run add "ty==${{ env.TY_VERSION }}"
+        run: uv add "ty==${{ env.TY_VERSION }}"
 
       - name: Run Ruff
         run: uv run ty check

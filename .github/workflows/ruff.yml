@@ -26,7 +26,7 @@ jobs:
         run: uv sync
 
       - name: Install Ruff
-        run: uv run add "ruff==${{ env.RUFF_VERSION }}"
+        run: uv add "ruff==${{ env.RUFF_VERSION }}"
 
       - name: Run Ruff
         run: uv run ruff check
