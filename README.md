@@ -19,8 +19,6 @@ Pythonプロジェクト用のテンプレートリポジトリ
 │   └── test_sample.py
 ├── .gitignore
 ├── .pre-commit-config.yaml
-├── Dockerfile
-├── Makefile
 ├── README.md
 ├── pyproject.toml
 └── uv.lock
