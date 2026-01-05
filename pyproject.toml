@@ -3,8 +3,8 @@ name = "template"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "pre-commit>=4.3.0",
-    "pytest>=8.4.1",
-    "ruff>=0.12.11",
-    "ty>=0.0.1a19",
+    "pre-commit>=4.5.1",
+    "pytest>=9.0.2",
+    "ruff>=0.14.10",
+    "ty>=0.0.9",
 ]
