@@ -1,4 +1,4 @@
-# python-template
+# python-template(Pythonプロジェクト用のテンプレ)
 
 Pythonプロジェクト用のテンプレートリポジトリ
 
